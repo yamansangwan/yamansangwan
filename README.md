@@ -1,39 +1,20 @@
-# `yamansangwan`
+<img width="80" height="80" alt="JS" src="https://github.com/user-attachments/assets/ea28df29-83a6-4df3-9a1a-2aa8d6afdd67" />
 
-```txt
-minimal profile · black/white · code style
-```
+<img width="80" height="80" alt="NODE" src="https://github.com/user-attachments/assets/06866e40-bfab-4cd3-87e1-13e6df25daac" />
 
-## `about`
+<img width="80" height="80" alt="Express JS" src="https://github.com/user-attachments/assets/e7ae06fb-3094-422f-b32e-facb677fb10a" />
 
-```txt
-builder focused on backend systems, APIs, and full-stack products
-```
+<img width="80" height="80" alt="MongoDB" src="https://github.com/user-attachments/assets/ce64a7c3-aeab-47e3-a8bc-8a0eff82ab0c" />
 
-## `skills`
+<img width="80" height="80" alt="GIT" src="https://github.com/user-attachments/assets/0033dbf9-dd61-4dfd-ac5b-dd7e1c7802cf" />
 
-```txt
-languages   : JavaScript, TypeScript
-backend     : Node.js, Express.js, REST APIs
-frontend    : JavaScript UI apps
-data/design : application architecture, feature-first development
-workflow    : Git, GitHub, npm
-```
+<img width="80" height="80" alt="postman" src="https://github.com/user-attachments/assets/49b55806-5cf6-499d-bf85-8c5f92c6c9e2" />
 
-## `repositories`
+<img width="80" height="80" alt="VERCEL" src="https://github.com/user-attachments/assets/0b090e42-331b-4aea-8d13-94740b545ba8" />
 
-- [`AgriIQ-AI`](https://github.com/yamansangwan/AgriIQ-AI) — TypeScript AI project
-- [`logic-vault-app`](https://github.com/yamansangwan/logic-vault-app) — full-stack knowledge & space management app
-- [`logic-vault-client`](https://github.com/yamansangwan/logic-vault-client) — frontend for Logic Vault
-- [`logic-vault-api`](https://github.com/yamansangwan/logic-vault-api) — backend for Logic Vault
-- [`task-management-api`](https://github.com/yamansangwan/task-management-api) — task management backend API
-- [`url-shortener-api`](https://github.com/yamansangwan/url-shortener-api) — URL shortener backend API
-- [`node.js-core`](https://github.com/yamansangwan/node.js-core) — backend fundamentals
-- [`javascript-core`](https://github.com/yamansangwan/javascript-core) — JavaScript core concepts
-- [`Git-Test`](https://github.com/yamansangwan/Git-Test) — Git practice repository
 
-## `contact`
 
-```txt
-github.com/yamansangwan
-```
+<img width="80" height="80" alt="88714a27c1a6c90148b5793a4b8ad8cb" src="https://github.com/user-attachments/assets/c69d237b-b59f-4770-952a-8aec1ba8ff82" />
+
+
+
